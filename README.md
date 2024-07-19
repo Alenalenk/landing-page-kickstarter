@@ -21,8 +21,8 @@ This project is a layout for a futuristic wireless speaker product page. The des
 ## To launch the project locally, follow these steps:
 
 1. **Clone the repository**:<br>
-   git clone https://github.com/Alenalenk/online-store.git<br>
-   cd online-store<br>
+   git clone https://github.com/Alenalenk/landing-page-kickstarter.git<br>
+   cd olanding-page-kickstarter<br>
    
 2. **Install the dependencies**:<br>
   If you are using NPM: npm install<br>
