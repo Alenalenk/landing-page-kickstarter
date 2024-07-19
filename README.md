@@ -4,6 +4,10 @@
 
 This project is a layout for a futuristic wireless speaker product page. The design highlights Luna’s balanced and smooth performance across all frequency ranges, making the music both naturally pleasant and distinctly layered. 
 
+Link to the preview: [DEMO LINK](https://alenalenk.github.io/landing-page-kickstarter/)
+
+Link to the design: [DESIGN](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-33&t=q6WKHOuMAhIk1XOo-0)
+
 ## Technologies that were used
 
 - **HTML**: For structuring the web page content.
